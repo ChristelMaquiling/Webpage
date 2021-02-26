@@ -12,7 +12,7 @@
   </tr>
      <tr bgcolor="efa0da">
           <td align="center"><font face="arial" size="5"><b>COVID Vaccines</b></font><br>
-          <p align="justify"><font face="arial">Vaccines save millions of lives each year. Vaccines work by training and preparing the body’s natural defences --- the immune system--- to recognize and fight off the viruses and bacteria they target. After vaccination, if the body is later exposed to those disease-causing germs, the body is immediately ready to destroy them, preventing illness.</font></br></br>
+          <p align="justify"><font face="arial">Vaccines save millions of lives each year. Vaccines work by training and preparing the bodyâ€™s natural defences --- the immune system--- to recognize and fight off the viruses and bacteria they target. After vaccination, if the body is later exposed to those disease-causing germs, the body is immediately ready to destroy them, preventing illness.</font></br></br>
           <a href="https://www.youtube.com/watch?v=uWGTciX795o">Click Here to Watch the Video!</a>
  <br><a href="frame2.html">Click for More Info</a>  
 </td>
