@@ -18,7 +18,7 @@ Current Issues <a href= "Covid.html">Click Here</a>      <br>  Hope <a href="Mat
 <p align="center">
 <b> Welcome to LUMIERE!</b> <br> A place where tomorrow's despair is today's flare.</font></p>
 </marquee>
-<embed src="Files/Upbeat Background Music Catchy Instrumental Music.mp3" type = "audio/mp3" autoplay = "true"> </embed>
+<embed src="Upbeat Background Music Catchy Instrumental Music.mp3" type = "audio/mp3" autoplay = "true"> </embed>
  
 </body>
 </html>
